@@ -11,7 +11,7 @@ The CEH Course V12 is recognized worldwide and is highly regarded in the IT secu
 
 Overall, the CEH Course V12 is a comprehensive and up-to-date program that provides individuals with the knowledge and skills they need to become proficient in ethical hacking and to help organizations protect themselves against cyber attacks.
 
-Module:
+CEH Modules:
 
 Module 01 - Introduction to Ethical Hacking 
 
