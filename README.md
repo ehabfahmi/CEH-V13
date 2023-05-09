@@ -10,3 +10,23 @@ The course is ideal for professionals in the IT security field who want to enhan
 The CEH Course V12 is recognized worldwide and is highly regarded in the IT security industry. Upon completion of the course, individuals can take the CEH certification exam, which is a globally recognized certification for ethical hacking professionals.
 
 Overall, the CEH Course V12 is a comprehensive and up-to-date program that provides individuals with the knowledge and skills they need to become proficient in ethical hacking and to help organizations protect themselves against cyber attacks.
+Module:
+Module 01 - Introduction to Ethical Hacking 
+Module 02 – Foot-printing and Reconnaissance 
+Module 03 - Scanning Networks 
+Module 04 - Enumeration 
+Module 05 - Vulnerability Analysis 
+Module 06 - System Hacking 
+Module 08 - Sniffing  
+Module 09 - Social Engineering 
+Module 10 - Denial of Service 
+Module 11 - Session Hijacking
+Module 12 - Evading IDS, Firewalls, and Honeypots 
+Module 13 - Hacking Web Servers 
+Module 14 - Hacking Web Applications 
+Module 15 - SQL Injection 
+Module 16 - Hacking Wireless Networks 
+Module 17 - Hacking Mobile Platforms 
+Module 18 - Hacking IoT and OT Hacking 
+Module 19 - Cloud Computing 
+Module 20 - Cryptography 
