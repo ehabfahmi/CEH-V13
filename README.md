@@ -1,5 +1,5 @@
 # CEH-V12
-CEH Course "TPlus"
+CEH Course "Abad"
 
 CEH (Certified Ethical Hacker) Course V12 is an updated version of the popular CEH certification program, which is designed to train individuals in the techniques and tools used by ethical hackers to identify and exploit vulnerabilities in computer systems and networks.
 
