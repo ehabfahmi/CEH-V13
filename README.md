@@ -1,52 +1,49 @@
-# CEH-V13
-CEH Course "Abad Network for Training"
+# CEH v13 — Certified Ethical Hacker (AI Edition)
 
-CEH (Certified Ethical Hacker) Course V13 is an updated version of the popular CEH certification program, which is designed to train individuals in the techniques and tools used by ethical hackers to identify and exploit vulnerabilities in computer systems and networks.
+CEH v13 (Abad Network Institute)
+Information Security, Ethical Hacking & AI-Powered Cyber Defense — Comprehensive Requirements
 
-The V13 version of the course has been updated to include the latest techniques, tools, and methodologies used by hackers to compromise systems, as well as the latest defense mechanisms used by organizations to protect themselves against such attacks. The course covers a wide range of topics, including footprinting and reconnaissance, network scanning, enumeration, vulnerability analysis, system hacking, web application hacking, wireless network hacking, and cryptography.
+# Abad Network Institute: Master Modern Ethical Hacking with AI and Get Certified to CEH v13
 
-The course is ideal for professionals in the IT security field who want to enhance their skills and knowledge in ethical hacking, as well as for individuals who want to enter this field. The course is also suitable for security officers, auditors, site administrators, and anyone else who is concerned with the integrity and security of computer systems and networks.
+## Description
 
-The CEH Course V13 is recognized worldwide and is highly regarded in the IT security industry. Upon completion of the course, individuals can take the CEH certification exam, which is a globally recognized certification for ethical hacking professionals.
+Ethical Hacking is one of the most dynamic and critical domains in modern cybersecurity. As cyber threats rapidly evolve and adversaries integrate Artificial Intelligence into their attack vectors, organizations require skilled security professionals who know how to think, act, and defend like an attacker using the latest AI-driven offensive and defensive techniques.
 
-Overall, the CEH Course V13 is a comprehensive and up-to-date program that provides individuals with the knowledge and skills they need to become proficient in ethical hacking and to help organizations protect themselves against cyber attacks.
+Global enterprises, government agencies, financial institutions, defense organizations, and IT service providers around the world look to the Certified Ethical Hacker (CEH) certification as the benchmark standard for ethical hacking credentials. Earning the CEH v13 certification demonstrates your mastery of modern attack vectors, vulnerability analysis, system hacking, and the application of AI tools in security auditing.
 
-CEH Modules:
+My course explains the core methodologies, attack frameworks, and technical skills aligned with the official CEH v13 curriculum to help you understand how ethical hackers assess infrastructure, exploit vulnerabilities, and secure assets across on-premises, cloud, and hybrid environments.
 
-Module 01 - Introduction to Ethical Hacking 
+My course is structured into 2 parts:
 
-Module 02 – Foot-printing and Reconnaissance 
+* the first one is about Ethical Hacking Fundamentals, Reconnaissance, Scanning, and AI Integration in Cybersecurity. Information security concepts, cyber kill chain, MITRE ATT&CK framework, AI-powered reconnaissance, foot-printing, OSINT techniques, network scanning and enumeration (Nmap, Gobuster, Masscan), vulnerability assessment, and threat intelligence integration are discussed.
+* the second part of the course is all about System Hacking, Web & Mobile Application Security, Network & Wireless Attacks, Cloud Security, and Countermeasures. The topics cover aspects like: System hacking (password cracking, privilege escalation, malware threats, keyloggers), sniffing and social engineering, Denial-of-Service (DoS/DDoS) attacks, session hijacking, evading IDS, Firewalls, and Honeypots, web server and web application security (SQL injection, XSS, CSRF, directory traversal), API security, wireless network hacking, mobile platform attack vectors, IoT and OT security, cloud security architectures, cryptography fundamentals, and AI-driven security automation.
 
-Module 03 - Scanning Networks 
+After going through all the lessons of this course you will have a solid knowledge of modern ethical hacking methodologies, how to leverage AI tools for offensive and defensive security operations, and how to successfully prepare for the CEH v13 exam.
 
-Module 04 - Enumeration 
+With the information here you can:
 
-Module 05 - Vulnerability Analysis 
+* work as an Ethical Hacker, Security Analyst, or Vulnerability Assessment Specialist;
+* perform comprehensive security audits and vulnerability assessments for enterprise networks;
+* work in a Security Operations Center (SOC) or Incident Response team with a thorough understanding of hacker TTPs; or
+* if you are an IT Administrator or Systems Engineer you will understand attack vectors to proactively harden your organization's infrastructure against cyber threats.
 
-Module 06 - System Hacking 
+If none of the options above suits your profile you can use the information in my course to build a strong foundational and advanced understanding of ethical hacking, elevating your cybersecurity career in an AI-driven landscape.
 
-Module 08 - Sniffing  
+From my course you will get condensed, highly practical information that you can re-visit anytime you need and after going through this course Udemy offers the possibility to download a certificate for successful completion so you can demonstrate your competence in ethical hacking and cybersecurity.
 
-Module 09 - Social Engineering 
+Who this course is for:
 
-Module 10 - Denial of Service 
+```
+Ethical Hackers and Security Analysts
+Penetration Testers and Vulnerability Assessment Engineers
+System Administrators, Network Engineers, and IT Specialists transitioning into Cyber Security
+SOC Analysts (Tier 1, Tier 2) looking to understand offensive tactics and AI integration
+Cyber Security Students and Enthusiasts seeking a globally recognized credential
+Anyone preparing for the official EC-Council CEH v13 exam
 
-Module 11 - Session Hijacking
+```
 
-Module 12 - Evading IDS, Firewalls, and Honeypots 
+## Instructor
 
-Module 13 - Hacking Web Servers 
-
-Module 14 - Hacking Web Applications 
-
-Module 15 - SQL Injection 
-
-Module 16 - Hacking Wireless Networks 
-
-Module 17 - Hacking Mobile Platforms 
-
-Module 18 - Hacking IoT and OT Hacking 
-
-Module 19 - Cloud Computing 
-
-Module 20 - Cryptography 
+Ehab Fahmi
+Cyber Security Consultant | Cyber Security Instructor
